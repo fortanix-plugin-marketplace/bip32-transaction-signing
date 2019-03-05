@@ -3,5 +3,6 @@
 	"author": "Fortanix",
 	"description": "Bitcoin HD wallet transaction signing plugin allows to sign bitcoin transaction",
 	"keywords": ["BlockChain"],
-	"plugin": "transaction_signing.lua"
+	"plugin": "transaction_signing.lua",
+	"version": "v1.0"
 }
